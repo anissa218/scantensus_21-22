@@ -1,0 +1,4 @@
+pandas>=0.1
+requests>=0.1
+flask>=0.2
+google-cloud-datastore>=0.1
